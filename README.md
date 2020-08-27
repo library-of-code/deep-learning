@@ -1,4 +1,4 @@
-# Model Zoo
+# Deep Learning Models
 
 This repository contains implementations of various deep learning research papers.
 
